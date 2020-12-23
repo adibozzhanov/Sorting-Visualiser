@@ -1,5 +1,7 @@
 # Sorting-Visualiser
 Visualising some of the sorting algorithms in python using tkinter
+![sorting]
+(https://github.com/adibozzhanov/Sorting-Visualiser/blob/main/images/sortingpic.png)
 
 # Prerequisites
 Latest version of Tkinter has to be installed. Project was build and tested in python 3.7
